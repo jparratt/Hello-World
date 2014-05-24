@@ -16,7 +16,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello World" << endl;
-	cout << "CHANGES MADE" << endl;
 
 
 	// Keeps the window open
